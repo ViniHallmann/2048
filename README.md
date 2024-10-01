@@ -24,4 +24,5 @@ Aqui estão algumas ideias de melhorias para o jogo, caso alguém (ou eu mesmo) 
 3. Adicionar uma opção de **rewind**, para desfazer o último movimento.
 4. Melhorar a organização do código e refatorar a lógica de movimentação.
 
+## Considerações meh
 Esse projetinho foi divertido de fazer mas assim como a maioria dos meus projetos, falta alguns pontos pra ele ficar 100% e provavelmente ele vai ficar sem esses pontos.
